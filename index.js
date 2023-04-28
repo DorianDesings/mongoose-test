@@ -24,4 +24,6 @@ const startServer = async () => {
   );
 };
 
+app.get();
+
 startServer();
